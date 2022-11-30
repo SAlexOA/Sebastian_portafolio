@@ -11,5 +11,10 @@ Este repositorio compara la efectividad de los métodos de clasificación "Decis
 
 ![](images/stars.jpg)
 
+## [Clasificando datasets con métodos no supervisados](https://github.com/SAlexOA/K-means_Classification)
+Este repositorio muestra la efectividad de los métodos no supervisados para clasificar datos.
+
+![](images/kmeans.jpg)
+
 ---
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
